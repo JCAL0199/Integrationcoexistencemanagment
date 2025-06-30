@@ -20,4 +20,4 @@ spec:
   owner: group:default/juan-manuel-perez
   lifecycle: production
   system: bdnsar
-  subcomponentOf: component:default/integrationutils
+  subcomponentOf: component:default/service-flask
